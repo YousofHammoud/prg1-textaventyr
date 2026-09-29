@@ -6,14 +6,6 @@
 
 ## To Do
 
-#### Skriv berättelsen
-<!-- id: task-1789371029039-86 -->
-<!-- priority: critical -->
-
-#### Spelarnamn
-<!-- id: task-1789370256358-0 -->
-programmet frågar efter spelarens namn och lagrar det i en variabel
-
 #### f-strängar
 <!-- id: task-1789370290018-5 -->
 spelarens namn används i minst tre print()-satser
@@ -35,6 +27,14 @@ minst två, och de ska vara olika. Slutar alla vägar likadant har spelarens val
 vid normala inmatningar. Om du vill så kan du använda mönstret valideraren från kurswebben
 
 ## In Progress
+
+#### Skriv berättelsen
+<!-- id: task-1789371029039-86 -->
+<!-- priority: critical -->
+
+#### Spelarnamn
+<!-- id: task-1789370256358-0 -->
+programmet frågar efter spelarens namn och lagrar det i en variabel
 
 ## Done
 
