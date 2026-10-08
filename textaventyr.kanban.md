@@ -6,10 +6,6 @@
 
 ## To Do
 
-#### .lower()
-<!-- id: task-1789370324820-21 -->
-all jämförelse av inmatning sänks till gemener först
-
 #### Inga kraschar
 <!-- id: task-1789370399886-49 -->
 vid normala inmatningar. Om du vill så kan du använda mönstret valideraren från kurswebben
@@ -41,3 +37,7 @@ Klona / forka repot och börja sedan jobba med materialet
 #### f-strängar
 <!-- id: task-1789370290018-5 -->
 spelarens namn används i minst tre print()-satser
+
+#### .lower()
+<!-- id: task-1789370324820-21 -->
+all jämförelse av inmatning sänks till gemener först
